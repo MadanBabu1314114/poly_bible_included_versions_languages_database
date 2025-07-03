@@ -1,0 +1,3684 @@
+{
+  "ACV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ACV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ACV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Afrikaans.db": {
+    "tables": {
+      "Afrikaans_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Afrikaans_books": [
+        "id",
+        "name"
+      ],
+      "sqlitesequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "AKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "AKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "AKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Alb.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Alb_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Alb_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Anderson.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Anderson_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Anderson_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "ArmEastern.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ArmEastern_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ArmEastern_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "ASV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ASV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ASV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "BBE.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "BBE_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "BBE_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "BeaMRK.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "BeaMRK_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "BeaMRK_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Bengali.db": {
+    "tables": {
+      "Bengali_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Bengali_books": [
+        "id",
+        "name"
+      ],
+      "sqlitesequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "BSB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "BSB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "BSB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "BurJudson.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "BurJudson_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "BurJudson_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Byz.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Byz_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Byz_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CebPinadayag.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CebPinadayag_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CebPinadayag_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Che1860.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Che1860_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Che1860_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "ChiSB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ChiSB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ChiSB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "ChiUn.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ChiUn_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ChiUn_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "ChiUnL.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ChiUnL_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ChiUnL_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CopSahBible2.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CopSahBible2_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CopSahBible2_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CPDV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CPDV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CPDV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CroSaric.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CroSaric_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CroSaric_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CSlElizabeth.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CSlElizabeth_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CSlElizabeth_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CzeBKR.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CzeBKR_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CzeBKR_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "CzeCSP.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "CzeCSP_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "CzeCSP_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "DaOT1871NT1907.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "DaOT1871NT1907_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "DaOT1871NT1907_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Darby.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Darby_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Darby_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "DRC.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "DRC_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "DRC_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "DutSVV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "DutSVV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "DutSVV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "DutSVVA.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "DutSVVA_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "DutSVVA_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Esperanto.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Esperanto_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Esperanto_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Est.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Est_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Est_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FinBiblia.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FinBiblia_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FinBiblia_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FinPR.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FinPR_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FinPR_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FinSTLK2017.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FinSTLK2017_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FinSTLK2017_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreBBB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreBBB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreBBB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreBDM1744.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreBDM1744_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreBDM1744_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreCrampon.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreCrampon_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreCrampon_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreGeneve1669.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreGeneve1669_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreGeneve1669_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreJND.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreJND_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreJND_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreLXX.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreLXX_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreLXX_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreLXXGiguet.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreLXXGiguet_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreLXXGiguet_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreOltramare1874.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreOltramare1874_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreOltramare1874_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FrePGR.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FrePGR_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FrePGR_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreStapfer1889.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreStapfer1889_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreStapfer1889_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "FreSynodale1921.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "FreSynodale1921_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "FreSynodale1921_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Geneva1599.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Geneva1599_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Geneva1599_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerAlbrecht.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerAlbrecht_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerAlbrecht_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerBoLut.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerBoLut_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerBoLut_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerElb1871.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerElb1871_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerElb1871_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerElb1905.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerElb1905_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerElb1905_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerGruenewald.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerGruenewald_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerGruenewald_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerLeoNA28.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerLeoNA28_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerLeoNA28_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerMenge.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerMenge_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerMenge_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerOffBiSt.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerOffBiSt_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerOffBiSt_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerSch.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerSch_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerSch_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerTafel.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerTafel_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerTafel_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerTextbibel.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerTextbibel_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerTextbibel_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GerZurcher.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GerZurcher_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GerZurcher_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "GreVamvas.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "GreVamvas_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "GreVamvas_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Gujarati.db": {
+    "tables": {
+      "Gujarati_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Gujarati_books": [
+        "id",
+        "name"
+      ],
+      "Gujarati_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "Haitian.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Haitian_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Haitian_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Haweis.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Haweis_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Haweis_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "HebModern.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "HebModern_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "HebModern_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Hindi.db": {
+    "tables": {
+      "Hindi_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Hindi_books": [
+        "id",
+        "name"
+      ],
+      "Hindi_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "HunKar.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "HunKar_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "HunKar_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "JapBungo.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "JapBungo_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "JapBungo_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "JapDenmo.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "JapDenmo_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "JapDenmo_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "JapKougo.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "JapKougo_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "JapKougo_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "JPS.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "JPS_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "JPS_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Jubilee2000.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Jubilee2000_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Jubilee2000_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Kannada.db": {
+    "tables": {
+      "Kannada_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Kannada_books": [
+        "id",
+        "name"
+      ],
+      "Kannada_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "KJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "KJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "KJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "KJVA.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "KJVA_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "KJVA_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "KJVPCE.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "KJVPCE_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "KJVPCE_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "KLV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "KLV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "KLV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "KorHKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "KorHKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "KorHKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "KorRV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "KorRV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "KorRV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "LEB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "LEB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "LEB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "LITV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "LITV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "LITV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "LvGluck8.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "LvGluck8_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "LvGluck8_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Mal1910.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Mal1910_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Mal1910_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "ManxGaelic.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ManxGaelic_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ManxGaelic_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Maori.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Maori_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Maori_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "MapM.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "MapM_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "MapM_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Marathi.db": {
+    "tables": {
+      "Marathi_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Marathi_books": [
+        "id",
+        "name"
+      ],
+      "Marathi_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "Mg1865.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Mg1865_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Mg1865_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "MKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "MKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "MKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Nepali.db": {
+    "tables": {
+      "Nepali_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Nepali_books": [
+        "id",
+        "name"
+      ],
+      "Nepali_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "NHEB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "NHEB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "NHEB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "NHEBJE.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "NHEBJE_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "NHEBJE_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "NHEBME.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "NHEBME_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "NHEBME_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "NlCanisius1939.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "NlCanisius1939_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "NlCanisius1939_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Norsk.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Norsk_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Norsk_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "NorSMB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "NorSMB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "NorSMB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Noyes.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Noyes_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Noyes_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "OEB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "OEB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "OEB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "OEBcth.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "OEBcth_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "OEBcth_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Oryia.db": {
+    "tables": {
+      "Oriya_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Oriya_books": [
+        "id",
+        "name"
+      ],
+      "Oriya_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "Peshitta.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Peshitta_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Peshitta_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "PohnOld.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "PohnOld_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "PohnOld_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "PolGdanska.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "PolGdanska_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "PolGdanska_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "PolUGdanska.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "PolUGdanska_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "PolUGdanska_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "PorBLivre.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "PorBLivre_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "PorBLivre_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "PorBLivreTR.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "PorBLivreTR_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "PorBLivreTR_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "PorNVA.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "PorNVA_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "PorNVA_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Punjabi.db": {
+    "tables": {
+      "Punjabi_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Punjabi_books": [
+        "id",
+        "name"
+      ],
+      "Punjabi_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "RLT.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "RLT_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "RLT_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "RNKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "RNKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "RNKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Rotherham.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Rotherham_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Rotherham_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "RusMakarij.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "RusMakarij_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "RusMakarij_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "RusSynodal.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "RusSynodal_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "RusSynodal_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "RWebster.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "RWebster_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "RWebster_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Sapedi.db": {
+    "tables": {
+      "Sapedi_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Sapedi_books": [
+        "id",
+        "name"
+      ],
+      "Sapedi_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "SloChraska.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SloChraska_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SloChraska_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SloKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SloKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SloKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SloOjacano.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SloOjacano_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SloOjacano_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SloStritar.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SloStritar_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SloStritar_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "sml_BL_2008.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "sml_BL_2008_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "sml_BL_2008_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SP.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SP_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SP_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SpaPlatense.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SpaPlatense_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SpaPlatense_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SpaRV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SpaRV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SpaRV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SpaRV1865.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SpaRV1865_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SpaRV1865_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SpaRVG.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SpaRVG_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SpaRVG_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SrKDEkavski.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SrKDEkavski_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SrKDEkavski_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SrKDIjekav.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SrKDIjekav_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SrKDIjekav_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "StatResGNT.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "StatResGNT_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "StatResGNT_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Swe1917.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Swe1917_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Swe1917_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SweKarlXII.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SweKarlXII_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SweKarlXII_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "SweKarlXII1873.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "SweKarlXII1873_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "SweKarlXII1873_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "TagAngBiblia.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "TagAngBiblia_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "TagAngBiblia_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Tamil.db": {
+    "tables": {
+      "Tamil_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Tamil_books": [
+        "id",
+        "name"
+      ],
+      "Tamil_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "Tausug.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Tausug_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Tausug_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Teb.db": {
+    "tables": {
+      "telugu_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "books": [
+        "id",
+        "name"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "sqlitesequence": [
+        "name",
+        "seq"
+      ]
+    }
+  },
+  "ThaiKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "ThaiKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "ThaiKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "TpiKJPB.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "TpiKJPB_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "TpiKJPB_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "TR.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "TR_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "TR_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Twenty.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Twenty_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Twenty_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Tyndale.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Tyndale_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Tyndale_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "UKJV.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "UKJV_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "UKJV_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "UkrOgienko.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "UkrOgienko_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "UkrOgienko_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Viet.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Viet_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Viet_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "vlsJoNT.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "vlsJoNT_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "vlsJoNT_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Vulgate.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Vulgate_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Vulgate_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "VulgClementine.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "VulgClementine_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "VulgClementine_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "VulgConte.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "VulgConte_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "VulgConte_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "VulgHetzenauer.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "VulgHetzenauer_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "VulgHetzenauer_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "VulgSistine.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "VulgSistine_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "VulgSistine_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Webster.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Webster_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Webster_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "WLC.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "WLC_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "WLC_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Wulfila.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Wulfila_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Wulfila_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Wycliffe.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "Wycliffe_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "Wycliffe_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Xhosa.db": {
+    "tables": {
+      "Xhosa_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Xhosa_books": [
+        "id",
+        "name"
+      ],
+      "Xhosa_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  },
+  "YLT.db": {
+    "tables": {
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ],
+      "YLT_books": [
+        "id",
+        "name"
+      ],
+      "sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "YLT_verses": [
+        "id",
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ]
+    }
+  },
+  "Zulu.db": {
+    "tables": {
+      "Zulu_verses": [
+        "book_id",
+        "chapter",
+        "verse",
+        "text"
+      ],
+      "Zulu_books": [
+        "id",
+        "name"
+      ],
+      "Zulu_sqlite_sequence": [
+        "name",
+        "seq"
+      ],
+      "translations": [
+        "translation",
+        "title",
+        "license"
+      ]
+    }
+  }
+}
